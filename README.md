@@ -1,5 +1,5 @@
 # Olá, Mundo!
- Primeiro Repositorio do curso de Git e GitHub
+ Primeiro Repositorio do **curso de Git e GitHub** , disponivel gratuitamento no canal do *you tube*
 
  Repositorio criado durande uma aula ao vivo !
  
